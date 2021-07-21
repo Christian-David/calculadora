@@ -1,0 +1,19 @@
+{
+  "name": "imc-calculadora",
+  "version": "0.0.1",
+  "description": "imc-calculadora é uma aplicacao para facilitar para os personal trainer. indicando o melhor treinamento",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian-David/calculadora.git"
+  },
+  "author": "Christian-David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christian-David/calculadora/issues"
+  },
+  "homepage": "https://github.com/Christian-David/calculadora#readme"
+}
